@@ -4,9 +4,9 @@
 ***Лучший ресурс для вашего обучения в сфере АйТи!***
 
 Мы собрали для вас только самое важное, чтобы вам было легче начать изучать информатику, а также совместно с лучшими преподавателями разработали курс по обучению на нашем сайте:)
-<p align = "right">
-  <img src="https://img.freepik.com/free-vector/isometric-cms-concept_23-2148807389.jpg" width="150" height="280">
-  <img src="https://img.freepik.com/premium-photo/automated-testing-abstract-concept-vector-illustration_916191-84913.jpg?w=996" width="150" height="280">
+<p align = "left">
+  <img src="https://img.freepik.com/free-vector/isometric-cms-concept_23-2148807389.jpg" width="280" height="280">
+  <img src="https://img.freepik.com/premium-photo/automated-testing-abstract-concept-vector-illustration_916191-84913.jpg?w=996" width="280" height="280">
 </p>
 
 **Что нас сайт может вам предложить:**
